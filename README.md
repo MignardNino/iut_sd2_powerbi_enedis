@@ -1,14 +1,11 @@
-# iut_sd2_rshiny_enedis
+# iut_sd2_powerbi_enedis
 Suivi du projet sur les DPE des logements du Rhône
 
-## Application Shiny - Installation et Documentation
+## Projet PowerBI - Travaux et Documentations
 
 ### Description
-Ce dépôt contient tout le nécessaire pour installer et exécuter une application **Shiny**. L'application permet de visualiser des données et est accompagnée de fichiers CSS pour personnaliser son apparence. Vous trouverez également des documents techniques et fonctionnels pour mieux comprendre son fonctionnement.
+Ce dépôt contient tout le nécessaire pour visualiser et comprendre le tableau de bord **PowerBI**. L'application permet de visualiser des données et de les filtrer selon plusieurs champs. Vous trouverez également des documents techniques et fonctionnels pour mieux comprendre son fonctionnement.
 
-### Code d'accés de l'App
-Username : `shiny`
-Passeword : `azerty`
 
 ### Structure du dépôt
 
@@ -32,9 +29,3 @@ Passeword : `azerty`
 - `README.md`: Ce fichier décrivant l'application et fournissant les instructions d'installation.  
   
 - `URL de l'App`: Ce fichier permet d'acceder a l'App via un URL.
-
-
-### Prérequis
-- **R** (version ≥ 4.0)
-- **RStudio** (recommandé)
-- Les packages R requis sont spécifiés dans le fichier `AppShiny_Packages.R`.
