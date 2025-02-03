@@ -9,17 +9,12 @@ Ce dépôt contient tout le nécessaire pour visualiser et comprendre le tableau
 
 ### Structure du dépôt
 
-- `App_RShiny_installation/`: Dossier complet d'installation
-  - `www/`: Dossier contenant les fichiers CSS pour styliser l'application.
-    - `css_1.css`: Fichier CSS pour la personnalisation de l'interface.
-    - `css_2.css`: Second fichier CSS pour des styles supplémentaires.
-
   - `AppShiny.R`: Script principal pour lancer l'application **Shiny**.
   - `AppShiny_Packages.R`: Script permettant d'installer les packages R requis pour l'application.
 
 - `Documentation/`: Dossier contenant la documentation associée à l'application.
-  - `Documentation Fonctionnelle de l'application.pdf`: Guide fonctionnel décrivant les fonctionnalités principales de l'application.
-  - `Documentation technique de l'application.pdf`: Documentation technique détaillant la structure du code et les technologies utilisées.
+  - `Documentation Fonctionnelle.pdf`: Guide fonctionnel décrivant les fonctionnalités principales de l'application.
+  - `Documentation Technique.pdf`: Schéma du Modèle de Données et Diagnostic de l’Analyseur de Performance Power BI.
 
 - `R_Markown/`: Fichier permettant d'inqtaller le RMarkdown
   - `www/`: Dossier contenant le fichier CSS pour styliser le RMarkdown.
