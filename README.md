@@ -16,7 +16,7 @@ Ce dépôt contient tout le nécessaire pour visualiser et comprendre le tableau
   - `Documentation Fonctionnelle.pdf`: Guide fonctionnel décrivant les fonctionnalités principales de l'application.
   - `Documentation Technique.pdf`: Schéma du Modèle de Données et Diagnostic de l’Analyseur de Performance Power BI.
 
-
+  - `Script_API_Récuperation.R`: Script pour récuperer les données de l'API.
     
 - `README.md`: Ce fichier décrivant l'application et fournissant les instructions d'installation.  
   
