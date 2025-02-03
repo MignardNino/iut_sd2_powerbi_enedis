@@ -9,10 +9,10 @@ Ce dépôt contient tout le nécessaire pour visualiser et comprendre le tableau
 
 ### Structure du dépôt
 
-  - `AppShiny.R`: Script principal pour lancer l'application **Shiny**.
+  - `Maquette_TDB_DPE.pdf`: Script principal pour lancer l'application **Shiny**.
   - `AppShiny_Packages.R`: Script permettant d'installer les packages R requis pour l'application.
 
-- `Documentation/`: Dossier contenant la documentation associée à l'application.
+
   - `Documentation Fonctionnelle.pdf`: Guide fonctionnel décrivant les fonctionnalités principales de l'application.
   - `Documentation Technique.pdf`: Schéma du Modèle de Données et Diagnostic de l’Analyseur de Performance Power BI.
 
